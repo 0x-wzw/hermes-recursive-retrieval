@@ -1,0 +1,13 @@
+# ☠️ Secret Protection
+credentials.json
+**/credentials.json
+**/credential*
+*.secret
+*.key
+*.pem
+.env
+.env.*
+!.env.example
+!.env.template
+**/secrets/
+**/.secrets/
