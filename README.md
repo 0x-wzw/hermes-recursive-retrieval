@@ -1,6 +1,6 @@
 # Recursive Retrieval Skill
 
-Hierarchical context traversal for OpenClaw memory layers.
+Hierarchical context traversal for Hermes memory layers.
 
 ## Overview
 
@@ -16,8 +16,8 @@ The traversal accumulates context from L0 → L1 → L2, with higher layers over
 
 ```bash
 # Clone the repository
-git clone https://github.com/0x-wzw/openclaw-recursive-retrieval.git
-cd openclaw-recursive-retrieval
+git clone https://github.com/0x-wzw/hermes-recursive-retrieval.git
+cd hermes-recursive-retrieval
 
 # Install as module
 pip install -e .

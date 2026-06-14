@@ -1,5 +1,5 @@
 """
-Recursive Retrieval Skill for OpenClaw
+Recursive Retrieval Skill for Hermes
 """
 
 from .recursive_retrieval import (

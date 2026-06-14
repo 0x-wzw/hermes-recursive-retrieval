@@ -1,5 +1,5 @@
 """
-Recursive Retrieval Skill for OpenClaw
+Recursive Retrieval Skill for Hermes
 
 Hierarchical context traversal across memory layers:
 - L0 (Shared): Global context accessible to all agents

@@ -43,7 +43,7 @@ def create_parser() -> argparse.ArgumentParser:
     """Create CLI argument parser."""
     parser = argparse.ArgumentParser(
         prog="recursive-retrieval",
-        description="Hierarchical context traversal for OpenClaw memory layers"
+        description="Hierarchical context traversal for Hermes memory layers"
     )
     
     parser.add_argument(

@@ -1,5 +1,5 @@
 [project]
-name = "openclaw-recursive-retrieval"
+name = "hermes-recursive-retrieval"
 version = "1.0.0"
 description = "Python project"
 requires-python = ">=3.11"
